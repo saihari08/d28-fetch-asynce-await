@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+}
+
+.products{
+  width: 200px;
+  height: 200px;
+  object-fit: contain;
+
+}
+.collections{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.collectiondiv{
+  width: 280px;
+  height: 320px;
+  border: 2px solid black;
+  margin: 20px;
+}
+
